@@ -2,7 +2,7 @@
 
 The project "Image Quilting for Texture Synthesis" aims to develop a method for synthesizing novel visual textures by stitching together small patches from existing images. It aims to achieve the following objectives: Texture Synthesis, Robustness and Flexibility, Efficient Computation, and Seamless Patch Integration. Texture Synthesis involves creating high-quality and visually appealing textures by seamlessly combining patches from different source images. Robustness and Flexibility consist in developing an image quilting algorithm that can handle various surfaces and produce satisfactory results. Efficient Computation involves optimizing the computational efficiency of the image quilting algorithm. Seamless Patch Integration consists in addressing challenges such as patch placement, blending, and handling irregular boundaries to ensure that the synthesized texture appears natural and realistic.
 
-1. Create virtual environment\n
+1. Create virtual environment
 	python -m virtualenv myenv
 2. Activate virtual environment
 	myenv\Scripts\activate
