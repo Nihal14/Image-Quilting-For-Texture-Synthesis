@@ -17,22 +17,7 @@ pip install -r requirements.txt
 
 # Results
 
-![Uploading Screenshot (135).png…]()
-![Uploading Screenshot (136).png…]()![Screenshot (122)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/06a35b65-65f0-4d4f-b1cc-01372340a7ab)
 
-![Uploading Screenshot (124).png…]()
-![Uploading Screenshot (123).png…]()
-
-![Screenshot (134)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/f850bffb-77e1-43dd-b207-8a33be16a3da)
-![Screenshot (133)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/df63394d-b14f-4c68-8790-790cb7f762ad)
-![Uploading Screenshot (132).png…]()
-![Uploading Screenshot (131).png…]()
-![Screenshot (130)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/90fec52c-dec8-4787-ab12-892c85e60765)
-![Screenshot (129)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/4c928fca-0bed-4f4c-a6f5-d526c2cf4c39)
-![Uploading Screenshot (128).png…]()
-![Uploading Screenshot (127).png…]()
-![Screenshot (126)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/0f5f9f36-b1bf-466d-bc4f-89df11748071)
-![Uploading Screenshot (125).png…]()
 
 Reference - 
 Image Quilting for Texture Synthesis and Transfer - Alexei A. Efros, William T. Freeman.
