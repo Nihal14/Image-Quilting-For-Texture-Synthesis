@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ![Screenshot (129)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/076dab46-9322-42d4-9046-d0ac40597795)
 ![Screenshot (126)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/c8f1ad97-5cdd-41ca-ba5e-babfad9bfaa0)
 ![Screenshot (134)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/74f601ab-0ef7-4daa-af2b-de0703c2a422)
+![Screenshot (129)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/402be25e-b9a7-4087-8eef-5ecd449c640a)
 
 
 
