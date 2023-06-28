@@ -11,7 +11,7 @@ python -m virtualenv myenv
 	opencv-python==4.5.4.60
 	Pillow==8.4.0
 	tkinter==8.6.12
-Create a file named requirements.txt that should be inside the root directory and copy the above packages. Then install it using the following command,
+4. Create a file named requirements.txt that should be inside the root directory and copy the above packages. Then install it using the following command,
 pip install -r requirements.txt
 
 
