@@ -7,10 +7,10 @@ The project "Image Quilting for Texture Synthesis" aims to develop a method for 
 2. Activate virtual environment
 	myenv\Scripts\activate
 3. Install the required packages 
-	numpy==1.21.4
-	opencv-python==4.5.4.60
-	Pillow==8.4.0
-	tkinter==8.6.12
+	* numpy==1.21.4
+	* opencv-python==4.5.4.60
+	* Pillow==8.4.0
+	* tkinter==8.6.12
 4. Create a file named requirements.txt that should be inside the root directory and copy the above packages. Then install it using the following command,
 pip install -r requirements.txt
 
