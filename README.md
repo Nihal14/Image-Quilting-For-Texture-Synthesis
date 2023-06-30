@@ -16,7 +16,7 @@ The project "Image Quilting for Texture Synthesis" aims to develop a method for 
 > pip install -r requirements.txt
 
 
-# Results
+## Results
 ![Screenshot (135)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/74638019-35ed-4136-a9c7-bc8b0725d5db)
 ![Screenshot (123)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/1434aaa6-3863-48de-b9cb-49e743609aa6)
 ![Screenshot (124)](https://github.com/Nihal14/Image-Quilting-For-Texture-Synthesis/assets/75977175/168f9b25-8da0-40d4-940d-02a5516e6f23)
